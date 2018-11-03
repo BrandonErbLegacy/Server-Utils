@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MODID",
+  "name": "MODNAME",
+  "description": "DESCRIPTION",
+  "version": "VERSION",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NightWraid"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
